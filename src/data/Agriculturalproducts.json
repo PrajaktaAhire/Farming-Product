@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name" : "Jaguarry Powder",
+        "image" : "/assets/Jagurryproduct.webp"
+    },
+    {
+        "id" : 2,
+        "name" : "Carom Seeds",
+        "image" : "/assets/Caromseeds.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Jeera Powder",
+        "image" : "/assets/Jeerapowder.webp"
+    },
+    {
+        "id" : 4,
+        "name" : "Amchoor Powder",
+        "image" : "/assets/Amchoorpowder.webp"
+    }
+]

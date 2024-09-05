@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "Agricultural Products",
+        "link" : "https://daivikorganic.com/collections/all",
+        "image" : "/assets/Agriculturalproduct.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Dairy Products",
+        "link" : "https://daivikorganic.com/collections/organic-a2-desi-dairy-products",
+        "image" : "/assets/Dairyproduct.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Tomato Processed Products",
+        "link" : "https://daivikorganic.com/collections/organic-sulphur-free-cane-sugars",
+        "image" : "/assets/Tomatoproduct.jpg"
+    }
+]

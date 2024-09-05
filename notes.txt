@@ -1,0 +1,15 @@
+Antd icon
+tailwind css install
+post css apply to tailwind css - install
+autoprefixer install
+
+Navbar - 
+
+space - space betn manage betwn the element
+px-10 = 40px
+px-5 = 20px
+md - meduim screen
+top-6 = 24px
+
+
+outlet in react dom - When you define child routes for a particular parent route the Outlet component renders the child components at that location
